@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.exe
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.deps.json
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.runtimeconfig.json
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.dll
+C:\Users\fic\Desktop\Estruturas-Condicionais\bin\Debug\netcoreapp3.1\Estruturas-Condicionais.pdb
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.AssemblyInfo.cs
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.dll
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.pdb
+C:\Users\fic\Desktop\Estruturas-Condicionais\obj\Debug\netcoreapp3.1\Estruturas-Condicionais.genruntimeconfig.cache
